@@ -1,0 +1,2 @@
+- pipeline.id: "approval"
+  path.config: "/usr/share/logstash/pipeline/approval.conf"
